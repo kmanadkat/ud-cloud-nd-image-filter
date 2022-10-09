@@ -8,6 +8,9 @@ Udaram Image Filtering Microservice takes an image url from user & returns a pro
 
 > No image is stored on the server, it is deleted as soon as processed version of image is delivered to the requesting client.
 
+### Overview
+
+![](./deployment_screenshots/Overview.png)
 
 ### Setup For Development
 
